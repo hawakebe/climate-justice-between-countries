@@ -19,8 +19,6 @@ High-income countries account for nearly 58 percent of cumulative emissions and 
 | `Master_1_Thesis_Climate_Justice_Between_Countries.pdf` | Thesis |
 | `climate_justice.do` | Stata do-file: labels, descriptive statistics, figures, correlation matrix, regressions |
 | `Dataset.xlsx` | Country-level dataset assembled for the thesis |
-| `Variable_Dictionary.pdf` | Definition and source of each variable |
-| `figures/` | The five figures of the thesis |
 
 ## Data sources
 
